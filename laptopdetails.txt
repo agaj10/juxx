@@ -1,0 +1,5 @@
+1,Blade 15,Razer,$2200,26,AMD Ryzen,GTX 2060
+2,Vostro,Dell,$990,27,I5 12 Ge,INTEL DEDICATED GRAPHICS
+3,Helios,Acer,$1200,34,I9 13th Gen,GTX 4060 TI
+4,Nitro 5,Acer,$1099,29,I7 13th Gen,GTX 3050 TI
+5,Pro 16,Apple,$1399,32,M2     ,     Apple M2
